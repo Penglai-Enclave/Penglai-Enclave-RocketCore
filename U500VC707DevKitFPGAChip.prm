@@ -1,0 +1,11 @@
+===================================
+Configuration Memory information
+===================================
+File Format        MCS
+Interface          BPIX16
+Size               128M
+Start Address      0x00000000
+End Address        0x07FFFFFF
+
+Addr1         Addr2         Date                    File(s)
+0x06000000    0x0735591B    Mar 31 09:10:53 2021    /home/tiger/workspace/luxu/freedom/builds/u500vc707devkit-nopcie/obj/U500VC707DevKitFPGAChip.bit
